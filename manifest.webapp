@@ -1,0 +1,16 @@
+{
+	"name": "7digital HTML5 packaged app demo",
+	"version": "0.0.1",
+	"description": "A demo album search app",
+	"launch_path": "/index.html",
+	"permissions": {
+	},
+	"developer": {
+		"name": "Raoul Millais",
+		"url": "http://github.com/raoulmillais"
+	},
+	"icons": {
+		"64": "/icons/7digital-logo.png"
+	},
+	"default_locale": "en"
+}
